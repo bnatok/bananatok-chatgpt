@@ -1,13 +1,10 @@
-import logging
 from langchain_community.utilities import SerpAPIWrapper
-
-logger = logging.getLogger("logger")
 
 
 def get_tool_internet_search(query):
     """인터넷 검색결과 반환"""
     try:
-        logger.info("Tool Internet search: {}".format(query[:10]))
+        print("Tool Internet search...: {}".format(query))
         params = {"engine": "google", "gl": "kr"}
         search = SerpAPIWrapper(params=params)
         return search.run(query)

@@ -2,12 +2,11 @@ import os
 from openai import OpenAI
 import json
 
-client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
-
 MODEL_ID = "gpt-4-0125-preview"
 
 
 def query_base_agent(messages, tools, functions):
+    client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
     response = client.chat.completions.create(
         model=MODEL_ID,
         messages=messages,

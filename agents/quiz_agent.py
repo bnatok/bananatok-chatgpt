@@ -1,9 +1,9 @@
-from django.utils import timezone
-from chat.ai.tools.web_tool import (
+from datetime import datetime
+from tools.web_tool import (
     get_function_internet_search,
     get_tool_internet_search,
 )
-from chat.ai.tools.bananatok_tool import (
+from tools.bananatok_tool import (
     get_function_description_bananatok,
     get_tool_description_bananatok,
 )
@@ -18,7 +18,7 @@ def query_quiz_agent(query):
     messages = [
         {
             "role": "system",
-            "content": f"Today's date is {timezone.localtime().strftime('%Y-%m-%d')}.",
+            "content": f"Today's date is {datetime.now().strftime('%Y-%m-%d')}.",
         },
         {
             "role": "system",
