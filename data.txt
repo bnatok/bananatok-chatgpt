@@ -1,0 +1,30 @@
+Web3 Messenger 'Bananatok'
+Blockchain technology-based messenger with extremely convenient UI to transfer BTC, CBDC, NFTs, and all digital assets for free without address.
+Current Status of BNA Coin's Exchange Listing
+It was closed two years ago due to a distribution controversy on the 'Coinone' exchange and is currently listed on the MEXC and XT exchanges (both exchanges without travel rules), and the current transaction price is between KRW 2 and KRW 3.
+In the future, it plans to proceed with listing on the Travel Rule-applied Exchange and the Korea Exchange again.
+History of "Bananatok"
+In the past, Zooholdings Group, a famous restaurant company that opened more than 500 stores in Korea and China under the brand "Sevenmonkey coffee" and Zoocoffee
+It acquired 'Biyong' (now Btok, China's largest blockchain messenger with 10 million users) in China and led 10 million users, and the final goal at the time was a messenger-based global exchange.
+For the first time in the blockchain industry, we tried to popularize it through TVCF (Cho Han-sun/Chae-yeon/Namola Family), Drama, and Movie advertisements,
+It is a large project with the largest number of actual users (more than 200,000) after the exchange in Korea, which was listed on a number of global exchanges and Korea's 'Coinone' exchange to reach KRW390.
+Real causes of delisting and other things on the 'Coinone' exchange
+The actual reason for delisting from Coinone due to the distribution volume controversy was fully explained by the relative increase in distribution due to the rapid change in the total amount (3.8 billion issuance at the time of listing, 2 billion voluntary incineration in less than a year), and until the end, the foundation repurchased billions of won worth of BNA, but it was eventually closed.
+The actual truth of the commercial closure is that just before listing, the foundation was forced to force "MM" (Market Making) by the executive in charge of the Coinone Exchange, and the representative of the foundation angrily refused, which is the actual reason for the commercial closure, many officials interpret.
+In the end, the person in charge of 'Coinone' was recently arrested for being involved in a listing corruption case.
+'Bananatok 2.0'
+Aiming for Web3 Messenger, it was completely independent of the existing 'Telegram' and Chinese engineers and completed as a pure independent system.
+Since last year, airdrop-related patented technologies have been released continuously with 'Contract drop/NFT drop/Futures drop', and past users have been reintroduced.
+It is expected to release the world's first mainnet (Layer 1), which can be used by the general public in five minutes.
+Due to the political difficulty in running the exchange due to the Korean situation, it recently diverted the direction from the past exchange project to the 'Mainnet' project.
+The present problem
+The biggest weakness of BNA is that it has been delisted once and is in the MEXC Exchange, which is not part of the Travel Rule. (Korean won remittance is cut off, purchase is very difficult)
+So, we are looking for an exchange where the Korea Exchange and Travel Rule have recently been signed, and we are working hard on listing with the aim of listing within the first half of the year.
+As planned, buying is expected to improve again from the first half of the year, and it will also try to list on the Korean Exchange after listing on the Travel Rule Exchange.
+"Bananatok" (BNA) Future prospects
+In fact, Bananatok's ultimate goal was to become a coin exchange, but it had been abandoned for about a year because it could not trust the Korean government's policy. **Korea's small exchanges, which also failed to get permission to deposit won, have recently gone bankrupt.
+From 2.0, Bananatok' is developing into a personal wallet service that allows difference transactions (swap transactions) to focus on virtual asset taxes.
+In addition, if the virtual asset tax system is implemented in Korea, coins on the exchange are expected to escape to private wallets. (Common case in advanced countries such as Japan)
+Therefore, user inflows will explode at the time of virtual asset tax imposition, and after that, Airdrop/Swap/Mainnet services will be provided through 1 million and 10 million user increases to improve the profit structure and continue to motivate price increases.
+According to an official, "Bananagames" and Mainnet are released, and if global users are activated, it is predicted that it will be possible to enter the era of a dollar in banana prices.
+Of course, Mainnet's performance and management's efforts will be paramount.
