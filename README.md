@@ -1,5 +1,5 @@
 # bananatok-chatgpt
-This repository is dedicated to Bananatok's ChatGPT-based AI quizzes and bots.
+This repository contains Python code for generating quizzes and answering questions with ChatGPT.
 Python 3.9 or higher is recommended.
 
 ## Description
