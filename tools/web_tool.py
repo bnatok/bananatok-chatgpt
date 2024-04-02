@@ -1,12 +1,12 @@
-from langchain_community.utilities import SerpAPIWrapper
+from langchain_community.utilities import GoogleSearchAPIWrapper
+from langchain_core.tools import Tool
 
 
 def get_tool_internet_search(query):
     """인터넷 검색결과 반환"""
     try:
         print("Tool Internet search...: {}".format(query))
-        params = {"engine": "google", "gl": "kr"}
-        search = SerpAPIWrapper(params=params)
+        search = GoogleSearchAPIWrapper()
         return search.run(query)
     except:
         return ""
